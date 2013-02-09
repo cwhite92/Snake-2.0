@@ -64,10 +64,7 @@
 			}
 			
 			// Also rotate it for lols
-			this.foodSprite.rotation += 1;
-			
-			// Spin the food
-			this.foodSprite.rotation += 1;
+			this.foodSprite.rotation += 2;
 		}
 	}
 }
